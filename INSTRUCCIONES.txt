@@ -1,0 +1,31 @@
+🚀 PASO A PASO PARA IMPLEMENTACIÓN DEL SISTEMA DE INVENTARIO
+
+--MOTOR DE BASE DE DATOS QUE SE SELECCIONO FUE POSTGRESQL
+
+PASO 1: Crear la Base de Datos
+Abre tu herramienta SQL (ej. pgAdmin, DBeaver o dbForge).
+
+Ejecuta el script:
+-- SCRIPT-DDL-DATABASE.sql
+
+ PASO 2: Poblar la Base de Datos con Datos Iniciales
+
+Ejecuta el script:
+--SCRIPT- POBLAR-DATABASE.sql
+
+PASO 3: Crear Procedimientos Almacenados
+
+Ejecuta el script:
+--SCRIPT-STORED-PROCEDURE.sql
+
+PASO 4: Ejecutar pruebas
+
+Ejecuta el script:
+--SCRIPT-TEST-SP.sql
+
+ PASO 4: Generar Reportes
+
+Ejecuta el script:
+--SCRIPT-QUERY-REPORT.sql
+
+ 
